@@ -21,4 +21,14 @@
 6. pull your practice/<first name> branch into this branch. (use either pull from in vscode or the command line.)
 
  ### Note:
-    You may get an error that looks something like this:
+You may get an error that looks something like this:
+        hint: You have divergent branches and need to specify how to reconcile them.
+        hint: You can do so by running one of the following commands sometime before
+        hint: your next pull:
+        hint:
+        hint:   git config pull.rebase false  # merge
+        hint:   git config pull.rebase true   # rebase
+        hint:   git config pull.ff only       # fast-forward only
+If you do, run "git config pull.rebase false" to use a merge, and then try again.
+
+7. After the pull, you should see your answer to question 1 in this document.
