@@ -14,7 +14,7 @@ Before starting this exercise, create a new branch called practice/[first name]
     1. Select the branches button. ![GitHub branch](assets/github_branch.png) Your branch should now be listed. 
     2. Select that branch, then open exercise.md in the brower. You should see the answer you added under question 1. 
 
-4. Go back and create a new branch from main. Name this branch practice/[last name]
+4. Checkout main again, then create a new branch from main. Name this branch practice/[last name]
 5. Answer below based on whether you are working in a codespace or on your computer:
     1. Where are you working on this file? _____
     2. Is where you are working on this file a clone of the repo? Why or why not?
