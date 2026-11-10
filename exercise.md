@@ -10,16 +10,18 @@
 3. Commit your answer to the new branch
 
 4. Notice in the changes window there is now an option called "publish branch". Press that button, then when it finishes open the repository on Github.
-    a. Select the branches button. ![GitHub branch](assets/github_branch.png) Your branch should now be listed. 
-    b. Select that branch, then open exercise.md in the brower. You should see the answer you added under question 1. 
+   - Select the branches button, it looks like this:
+       - ![GitHub branch](assets/github_branch.png)
+- Your branch should now be listed. 
+   - Select that branch, then open exercise.md in the brower. You should see the answer you added under question 1. 
 
 
-5. Answer below based on whether you are working in a codespace or on your computer:
+6. Answer below based on whether you are working in a codespace or on your computer:
     a. Where are you working on this file? _____
     b. Is where you are working on this file a clone of the repo? Why or why not?
-6. Commit your answer to question 4.
+7. Commit your answer to question 4.
    
-7. pull your practice/<first name> branch into your main branch. (use either pull from in vscode or the command line.)
+8. pull your practice/<first name> branch into your main branch. (use either pull from in vscode or the command line.)
 
  ### Note:
 You may get an error that looks something like this:
@@ -33,9 +35,11 @@ You may get an error that looks something like this:
 If you do, run "git config pull.rebase false" to use a merge, and then try again.
 
 8. After the pull, you should see your answer to question 1 in this document. 
-9. Go to the source control tab and open the graph section. You should see something that looks like this: ![git branch](assets/git_branch.png) This shows the commits made in your practice/<first name> branch, which have now been added to your practice/<last name> branch. Why do you think git adds that history into a branch when merging? 
+9. Go to the source control tab and open the graph section. You should see something that looks like this:
+   - ![git branch](assets/git_branch.png)
+10. This shows the commits made in your practice/<first name> branch, which have now been added to your practice/<last name> branch. Why do you think git adds that history into a branch when merging? 
     Your answer:
 
 
-10. Commit your answer to question 8, then push your branch.
-11. create a pull request from your branch to the main branch of your repo. (when choose the base branch, you will see two entries, one for [Your github name]/Programming-workflow-files, and one for ScoutingRobotics/Programming-workflow files. Make sure to choose your repository)
+11. Commit your answer to question 8, then push your branch.
+12. create a pull request from your branch to the main branch of your repo. (when choose the base branch, you will see two entries, one for [Your github name]/Programming-workflow-files, and one for ScoutingRobotics/Programming-workflow files. Make sure to choose your repository)
