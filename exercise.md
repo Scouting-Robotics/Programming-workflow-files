@@ -5,7 +5,6 @@
 
 1. Look at the previous two commit messages in this repo. briefly explain below which commit message is a good and which is bad, and why.
 
-The commit messages are reasonable and detailed.
 
 2. Commit your answer
 
