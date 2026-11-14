@@ -5,7 +5,7 @@
 
 1. Look at the previous two commit messages in this repo. briefly explain below which commit message is a good and which is bad, and why.
 
-<your answer here>
+<The "Added merge error resolution" commit is worse because it doesn't specify the file it was done in which can make it confusing when there is more than one file. The other commit is good because it a good amount of detail about the changes while also specifying where it came from.> 
 
 2. Commit your answer
 
