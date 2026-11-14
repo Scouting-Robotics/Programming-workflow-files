@@ -9,6 +9,8 @@
 
 2. Commit your answer
 
+COMPLETE
+
 3. Notice in the changes window there is now an option called "publish branch". Press that button, then when it finishes open the repository on Github.
     a. Select the branches button. ![GitHub branch](assets/github_branch.png) Your branch should now be listed. 
     b. Select that branch, then open exercise.md in the brower. You should see the answer you added under question 1. 
