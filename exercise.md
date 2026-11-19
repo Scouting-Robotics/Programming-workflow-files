@@ -47,4 +47,7 @@ If you do, run "git config pull.rebase false" to use a merge, and then try again
 
 
 9. Commit your answer to question 8, then push your branch.
+
+COMPLETE
+
 10. create a pull request from your branch to the main branch of your repo. (when choose the base branch, you will see two entries, one for [Your github name]/Programming-workflow-files, and one for ScoutingRobotics/Programming-workflow files. Make sure to choose your repository)
