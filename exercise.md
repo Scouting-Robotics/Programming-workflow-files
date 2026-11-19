@@ -43,6 +43,8 @@ If you do, run "git config pull.rebase false" to use a merge, and then try again
 8. Go to the source control tab and open the graph section. You should see something that looks like this: ![git branch](assets/git_branch.png) This shows the commits made in your practice/<first name> branch, which have now been added to your practice/<last name> branch. Why do you think git adds that history into a branch when merging? 
     Your answer:
 
+    Because when you merge two branches you should be able to access the commit history of each so that you don't need to constantly switch branches just to see the changes.
+
 
 9. Commit your answer to question 8, then push your branch.
 10. create a pull request from your branch to the main branch of your repo. (when choose the base branch, you will see two entries, one for [Your github name]/Programming-workflow-files, and one for ScoutingRobotics/Programming-workflow files. Make sure to choose your repository)
