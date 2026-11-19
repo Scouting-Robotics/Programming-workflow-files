@@ -5,9 +5,11 @@
 
 1. Look at the previous two commit messages in this repo. briefly explain below which commit message is a good and which is bad, and why.
 
-<your answer here>
+<The "Added merge error resolution" commit is worse because it doesn't specify the file it was done in which can make it confusing when there is more than one file. The other commit is good because it a good amount of detail about the changes while also specifying where it came from.> 
 
 2. Commit your answer
+
+COMPLETE
 
 3. Notice in the changes window there is now an option called "publish branch". Press that button, then when it finishes open the repository on Github.
     a. Select the branches button. ![GitHub branch](assets/github_branch.png) Your branch should now be listed. 
@@ -16,7 +18,13 @@
 3. Go back and create a new branch from main. Name this branch practice/<last name>
 4. Answer below based on whether you are working in a codespace or on your computer:
     a. Where are you working on this file? _____
+
+    I am working on this file in the practice/lin branch of exercise.md
+
     b. Is where you are working on this file a clone of the repo? Why or why not?
+
+    No, because I have already edited the branch so it is technically not a clone.  testing testing testing
+
 5. Commit your answer to question 4.
 6. pull your practice/<first name> branch into this branch. (use either pull from in vscode or the command line.)
 
@@ -35,6 +43,11 @@ If you do, run "git config pull.rebase false" to use a merge, and then try again
 8. Go to the source control tab and open the graph section. You should see something that looks like this: ![git branch](assets/git_branch.png) This shows the commits made in your practice/<first name> branch, which have now been added to your practice/<last name> branch. Why do you think git adds that history into a branch when merging? 
     Your answer:
 
+    Because when you merge two branches you should be able to access the commit history of each so that you don't need to constantly switch branches just to see the changes.
+
 
 9. Commit your answer to question 8, then push your branch.
+
+COMPLETE
+
 10. create a pull request from your branch to the main branch of your repo. (when choose the base branch, you will see two entries, one for [Your github name]/Programming-workflow-files, and one for ScoutingRobotics/Programming-workflow files. Make sure to choose your repository)
