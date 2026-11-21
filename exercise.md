@@ -35,7 +35,7 @@ If you do, run "git config pull.rebase false" to use a merge, and then try again
 
 7. After the pull, you should see your answer to question 1 in this document. 
 8. Go to the source control tab and open the graph section. You should see something that looks like this: ![git branch](assets/git_branch.png) This shows the commits made in your practice/<first name> branch, which have now been added to your practice/<last name> branch. Why do you think git adds that history into a branch when merging? 
-    Your answer:
+    Your answer: To show how different branches merged with each other on one commit
 
 
 9. Commit your answer to question 8, then push your branch.
