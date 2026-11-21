@@ -15,8 +15,10 @@ The commit messages are reasonable and detailed.
 
 3. Go back and create a new branch from main. Name this branch practice/<last name>
 4. Answer below based on whether you are working in a codespace or on your computer:
-    a. Where are you working on this file? _____
+    a. Where are you working on this file?
+    - Vscode on my computer
     b. Is where you are working on this file a clone of the repo? Why or why not?
+    - Well yeah because i ran ```git clone``` to get my stuff over locally
 5. Commit your answer to question 4.
 6. pull your practice/<first name> branch into this branch. (use either pull from in vscode or the command line.)
 
